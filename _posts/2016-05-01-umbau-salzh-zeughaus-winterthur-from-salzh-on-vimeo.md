@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Umbau SalZH Zeughaus Winterthur from SalZH.
-datePublished: '2016-05-01T14:35:04.276Z'
-dateModified: '2016-05-01T14:00:38.135Z'
-title: ''
+datePublished: '2016-05-01T14:35:59.416Z'
+dateModified: '2016-05-01T14:35:57.448Z'
+title: Slideshow
 author: []
 sourcePath: _posts/2016-05-01-umbau-salzh-zeughaus-winterthur-from-salzh-on-vimeo.md
 published: true
@@ -22,6 +22,8 @@ url: umbau-salzh-zeughaus-winterthur-from-salzh-on-vimeo/index.html
 _type: Article
 
 ---
+# Slideshow
+
 [Umbau SalZH Zeughaus Winterthur][0] from [SalZH][1].
 
 Swiss students are making money by working hard at the construction area Zeughaus our renovated school building for the primary school. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fa2f518-f8a1-44c8-919c-e43805b27224.jpg)
