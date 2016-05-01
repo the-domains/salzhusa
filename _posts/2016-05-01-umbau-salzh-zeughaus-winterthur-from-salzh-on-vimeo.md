@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Umbau SalZH Zeughaus Winterthur from SalZH.
-datePublished: '2016-05-01T14:35:59.416Z'
-dateModified: '2016-05-01T14:35:57.448Z'
+datePublished: '2016-05-01T14:38:19.518Z'
+dateModified: '2016-05-01T14:38:17.011Z'
 title: Slideshow
 author: []
 sourcePath: _posts/2016-05-01-umbau-salzh-zeughaus-winterthur-from-salzh-on-vimeo.md
@@ -22,7 +22,7 @@ url: umbau-salzh-zeughaus-winterthur-from-salzh-on-vimeo/index.html
 _type: Article
 
 ---
-# Slideshow
+# [Slideshow][0]
 
 [Umbau SalZH Zeughaus Winterthur][0] from [SalZH][1].
 
