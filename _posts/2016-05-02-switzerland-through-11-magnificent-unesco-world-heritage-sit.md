@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T18:27:54.253Z'
-dateModified: '2016-05-02T18:27:33.798Z'
+datePublished: '2016-05-02T18:30:39.008Z'
+dateModified: '2016-05-02T18:28:01.789Z'
 title: Switzerland Through 11 Magnificent UNESCO World Heritage Sites
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-02-switzerland-through-11-magnificent-unesco-world-heritage-sit.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-switzerland-through-11-magnificent-unesco-world-heritage-sit.md
-published: true
 url: switzerland-through-11-magnificent-unesco-world-heritage-sit/index.html
 _type: Article
 
