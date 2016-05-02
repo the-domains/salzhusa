@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Stunning monasteries, snaking rail bridges, and Swiss watchmaking.'
-datePublished: '2016-05-02T19:14:13.160Z'
-dateModified: '2016-05-02T18:32:22.905Z'
+datePublished: '2016-05-02T20:23:09.544Z'
+dateModified: '2016-05-02T19:14:21.790Z'
 title: Switzerland Through 11 Magnificent UNESCO World Heritage Sites
 author:
   - name: ''
