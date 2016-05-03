@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Click to see stunning monasteries, snaking rail bridges, and Swiss watchmaking.'
-datePublished: '2016-05-03T06:01:05.603Z'
-dateModified: '2016-05-03T06:00:36.150Z'
+datePublished: '2016-05-03T13:07:12.657Z'
+dateModified: '2016-05-03T06:01:14.474Z'
 title: Switzerland Through 11 Magnificent UNESCO World Heritage Sites
 author:
   - name: ''
@@ -27,7 +27,6 @@ _type: Article
 # Switzerland Through 11 Magnificent UNESCO [World Heritage Sites][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7402cb8d-dd87-40ff-8b87-8b0c37241a67.jpg)
 
-[Click to see stunning monasteries, snaking rail bridges, and Swiss watchmaking.][1]
+[Click to see stunning monasteries, snaking rail bridges, and Swiss watchmaking.][0]
 
 [0]: http://www.natgeotraveller.in/magazine/month/swiss-special/swiss-heritage/
-[1]: null
