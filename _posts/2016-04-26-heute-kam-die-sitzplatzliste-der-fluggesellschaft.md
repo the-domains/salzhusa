@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T13:56:11.632Z'
-dateModified: '2016-05-03T13:11:10.610Z'
+datePublished: '2016-05-03T14:08:47.801Z'
+dateModified: '2016-05-03T13:57:52.859Z'
 title: A few learning situations of our students...
 author:
   - name: ''
@@ -33,4 +33,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94439be9-8750-49f0-8753-1f6ff50ea3fb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5576f1d6-406e-438d-81e4-2908a5e52974.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17e7b494-996d-48aa-9bcb-d0145865d064.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83d958e9-43cc-4867-b75b-de8fae3cdef8.jpg)
