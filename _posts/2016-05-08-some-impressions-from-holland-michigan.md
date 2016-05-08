@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T21:38:00.978Z'
-dateModified: '2016-05-08T21:37:57.891Z'
+datePublished: '2016-05-08T23:10:49.495Z'
+dateModified: '2016-05-08T22:07:48.470Z'
 title: Some impressions from the first Sunday...
 author: []
 sourcePath: _posts/2016-05-08-some-impressions-from-holland-michigan.md
