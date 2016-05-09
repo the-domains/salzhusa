@@ -4,7 +4,7 @@
         <description><![CDATA[SalZH goes West 2016]]></description>
         <link>https://thegrid.ai/salzhusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 02:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 17:46:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/salzhusa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SalZH - Winterthur - Switzerland]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/salzhusa/salzh-winterthur-switzerland/index.html</link>
             <guid isPermaLink="false">a3ed2cbe-583d-41e6-9239-ca60ba81400e</guid>
             <pubDate>Wed, 27 Apr 2016 05:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a6b3035-9e1f-45ba-9cbd-0427c1287b4d.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/salzhusa/video/index.html</link>
+            <guid isPermaLink="false">f4da2947-220f-4753-91c1-a4222e486d1f</guid>
+            <pubDate>Mon, 09 May 2016 17:45:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some impressions of the first Sunday...]]></title>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/salzhusa/8-swiss-world-records/index.html</link>
             <guid isPermaLink="false">6b9c38df-fe52-47f5-a5b8-8ce752a5f43f</guid>
             <pubDate>Mon, 02 May 2016 20:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a6b3035-9e1f-45ba-9cbd-0427c1287b4d.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/salzhusa/video/index.html</link>
-            <guid isPermaLink="false">f4da2947-220f-4753-91c1-a4222e486d1f</guid>
-            <pubDate>Wed, 27 Apr 2016 05:39:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Any questions?]]></title>
