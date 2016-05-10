@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T11:37:01.360Z'
-dateModified: '2016-05-10T11:36:55.890Z'
+datePublished: '2016-05-10T11:42:55.829Z'
+dateModified: '2016-05-10T11:37:07.524Z'
 title: 'Our amazing hostfamilies '
 author: []
+sourcePath: _posts/2016-05-10-our-amazing-hostfamilies.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-our-amazing-hostfamilies.md
 url: our-amazing-hostfamilies/index.html
 _type: Article
 
