@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T14:01:41.809Z'
-dateModified: '2016-05-11T14:01:29.889Z'
+datePublished: '2016-05-11T14:05:20.920Z'
+dateModified: '2016-05-11T14:02:37.017Z'
 title: Discover Algoma Christian School
 author: []
 sourcePath: _posts/2016-05-11-discover-algoma-christian-school.md
