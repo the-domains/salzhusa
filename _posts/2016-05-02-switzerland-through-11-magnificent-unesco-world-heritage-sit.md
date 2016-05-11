@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Click to see stunning monasteries, snaking rail bridges, and Swiss watchmaking.'
-datePublished: '2016-05-03T13:07:12.657Z'
-dateModified: '2016-05-03T06:01:14.474Z'
+datePublished: '2016-05-11T14:05:46.420Z'
+dateModified: '2016-05-10T13:11:00.665Z'
 title: Switzerland Through 11 Magnificent UNESCO World Heritage Sites
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-02-switzerland-through-11-magnificent-unesco-world-heritage-sit.md
-published: true
 authors: []
 publisher:
   name: null
@@ -24,7 +23,7 @@ url: switzerland-through-11-magnificent-unesco-world-heritage-sit/index.html
 _type: Article
 
 ---
-# Switzerland Through 11 Magnificent UNESCO [World Heritage Sites][0]
+# Switzerland Through 11 Magnificent UNESCO [World ][0]Heritage[Sites][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7402cb8d-dd87-40ff-8b87-8b0c37241a67.jpg)
 
 [Click to see stunning monasteries, snaking rail bridges, and Swiss watchmaking.][0]
