@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T14:00:20.119Z'
-dateModified: '2016-05-11T13:59:32.665Z'
+datePublished: '2016-05-11T14:01:41.809Z'
+dateModified: '2016-05-11T14:01:29.889Z'
 title: Discover Algoma Christian School
 author: []
 sourcePath: _posts/2016-05-11-discover-algoma-christian-school.md
@@ -25,7 +25,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c5d9a0b-8575-46d0-9fa1-307a4701ac56.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40636e90-2f30-42dd-9a7a-fc8d40ad27e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c02af7b4-2669-464c-b875-c35063f977e2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fac54d3-57cc-415c-a128-fdb3e2b439c0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c6fbd11-1501-46e2-9526-d162d3150c21.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ccc7ee0-4d8d-482e-b580-66340a1483e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c70d65-9674-481f-bf28-cc43547ea3e8.jpg)
