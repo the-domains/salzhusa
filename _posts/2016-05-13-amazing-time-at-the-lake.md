@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-13T02:47:41.865Z'
-dateModified: '2016-05-13T02:47:11.528Z'
+datePublished: '2016-05-13T03:09:30.277Z'
+dateModified: '2016-05-13T03:08:45.217Z'
 title: Amazing time at the lake
 author: []
+sourcePath: _posts/2016-05-13-amazing-time-at-the-lake.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-amazing-time-at-the-lake.md
 url: amazing-time-at-the-lake/index.html
 _type: Article
 
