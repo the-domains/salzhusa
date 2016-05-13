@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-13T03:13:17.769Z'
-dateModified: '2016-05-13T03:13:11.965Z'
+description: However the weather - we must get together
+datePublished: '2016-05-13T03:16:25.406Z'
+dateModified: '2016-05-13T03:16:12.958Z'
 title: Amazing time at the lake
 author: []
 sourcePath: _posts/2016-05-13-amazing-time-at-the-lake.md
@@ -21,7 +21,7 @@ url: amazing-time-at-the-lake/index.html
 _type: Article
 
 ---
-# Amazing time at the lake
+## Amazing time at the lake
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22208880-9e97-4404-a2f1-268881d3f4ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75a46a65-31e1-4043-8aa1-dd3182f0ad02.jpg)
 
