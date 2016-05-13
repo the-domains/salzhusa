@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-13T03:09:30.277Z'
-dateModified: '2016-05-13T03:08:45.217Z'
+datePublished: '2016-05-13T03:13:17.769Z'
+dateModified: '2016-05-13T03:13:11.965Z'
 title: Amazing time at the lake
 author: []
 sourcePath: _posts/2016-05-13-amazing-time-at-the-lake.md
@@ -24,6 +24,8 @@ _type: Article
 # Amazing time at the lake
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22208880-9e97-4404-a2f1-268881d3f4ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75a46a65-31e1-4043-8aa1-dd3182f0ad02.jpg)
+
+However the weather - we must get together
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8aa0a50-3fdc-4cea-a7cb-2887cfe30151.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/880ecfac-9ac8-4b38-8a45-458a524ff28c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e32b2ff4-f70a-4fdb-a7b1-415bc753b812.jpg)
