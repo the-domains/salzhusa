@@ -4,7 +4,7 @@
         <description><![CDATA[SalZH goes West 2016]]></description>
         <link>https://thegrid.ai/salzhusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 09:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 09:34:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/salzhusa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SalZH - Winterthur - Switzerland]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/salzhusa/salzh-winterthur-switzerland/index.html</link>
             <guid isPermaLink="false">a3ed2cbe-583d-41e6-9239-ca60ba81400e</guid>
             <pubDate>Mon, 09 May 2016 20:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Safe and sound in Grand Rapids...]]></title>
+            <description><![CDATA[<article><h1>Safe and sound in Grand Rapids...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c01b5ef7-b2f1-4f45-b922-9b840880110a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/salzhusa/3-hours-delay-at-newark/index.html</link>
+            <guid isPermaLink="false">323dda82-b959-437a-b380-a875159701f0</guid>
+            <pubDate>Sun, 15 May 2016 09:34:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Whitecaps vs. Fort Wayne ]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/salzhusa/video/index.html</link>
             <guid isPermaLink="false">f4da2947-220f-4753-91c1-a4222e486d1f</guid>
             <pubDate>Mon, 09 May 2016 17:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safe and sound in Grand Rapids...]]></title>
-            <description><![CDATA[<article><h1>Safe and sound in Grand Rapids...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c01b5ef7-b2f1-4f45-b922-9b840880110a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/salzhusa/3-hours-delay-at-newark/index.html</link>
-            <guid isPermaLink="false">323dda82-b959-437a-b380-a875159701f0</guid>
-            <pubDate>Sun, 08 May 2016 11:15:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
