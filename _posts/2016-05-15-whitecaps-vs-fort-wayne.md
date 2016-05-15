@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We won!'
-datePublished: '2016-05-15T09:27:38.723Z'
-dateModified: '2016-05-15T09:26:49.315Z'
+datePublished: '2016-05-15T09:31:42.926Z'
+dateModified: '2016-05-15T09:27:47.384Z'
 title: 'Whitecaps vs. Fort Wayne '
 author: []
+sourcePath: _posts/2016-05-15-whitecaps-vs-fort-wayne.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-whitecaps-vs-fort-wayne.md
 url: whitecaps-vs-fort-wayne/index.html
 _type: Article
 
