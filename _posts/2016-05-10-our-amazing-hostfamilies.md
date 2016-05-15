@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T01:49:02.411Z'
-dateModified: '2016-05-14T01:47:20.407Z'
+datePublished: '2016-05-15T09:34:16.585Z'
+dateModified: '2016-05-15T09:34:16.083Z'
 title: 'Visiting our amazing hostfamilies '
 author: []
 sourcePath: _posts/2016-05-10-our-amazing-hostfamilies.md
