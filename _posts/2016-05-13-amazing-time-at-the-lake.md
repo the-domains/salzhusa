@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: However the weather - we must get together
-datePublished: '2016-05-15T09:30:20.376Z'
-dateModified: '2016-05-13T11:05:26.384Z'
+datePublished: '2016-05-15T09:34:08.527Z'
+dateModified: '2016-05-15T09:30:25.526Z'
 title: Amazing time at the lake
 author: []
 sourcePath: _posts/2016-05-13-amazing-time-at-the-lake.md
