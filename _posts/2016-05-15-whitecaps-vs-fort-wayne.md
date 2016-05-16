@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We won!'
-datePublished: '2016-05-16T01:14:45.570Z'
-dateModified: '2016-05-16T01:14:26.687Z'
+datePublished: '2016-05-16T01:15:29.985Z'
+dateModified: '2016-05-16T01:14:51.544Z'
 title: 'Whitecaps vs. Fort Wayne '
 author: []
 sourcePath: _posts/2016-05-15-whitecaps-vs-fort-wayne.md
@@ -42,8 +42,7 @@ __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2738484c-cc6a-42ba-a095-5ff957f92c8d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61041d24-b30b-430f-aac1-d71014ed6b34.jpg)
 
-_  
-_
+__
 
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8279f9b1-bc07-4ac3-a187-0f67efa373d6.jpg)
