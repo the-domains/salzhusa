@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We won!'
-datePublished: '2016-05-15T14:15:14.010Z'
-dateModified: '2016-05-15T14:14:40.325Z'
+datePublished: '2016-05-16T00:45:58.458Z'
+dateModified: '2016-05-16T00:45:03.086Z'
 title: 'Whitecaps vs. Fort Wayne '
 author: []
 sourcePath: _posts/2016-05-15-whitecaps-vs-fort-wayne.md
@@ -34,10 +34,9 @@ _Dear Lukas Bar,_
 
 _Thank you for attending yesterday's Whitecaps game. We hope you enjoyed your time at Fifth Third Ballpark.The support of fans like you make a difference to the players and the organization. _
 
-_We strive to provide an exceptional customer experience and appreciate any feedback you have. Feel free to reply to this email with your comments._
+_We strive to provide an exceptional customer experience and appreciate any feedback you have. _
 
-_We hope to see you again during the 2016 season._
-
-_Click below to check out the 2016 schedule and upcoming promotions. Keep in mind the next Family Fare Fireworks Night is Saturday, May 28\. Thanks again for your support!_
+_  
+_
 
 __
