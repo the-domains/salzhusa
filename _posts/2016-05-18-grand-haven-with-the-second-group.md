@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T12:42:57.868Z'
-dateModified: '2016-05-19T12:42:57.424Z'
+datePublished: '2016-05-19T12:59:45.153Z'
+dateModified: '2016-05-19T12:43:35.622Z'
 title: Grand Haven with the second group...
 author: []
 sourcePath: _posts/2016-05-18-grand-haven-with-the-second-group.md
