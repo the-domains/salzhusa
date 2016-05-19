@@ -4,7 +4,7 @@
         <description><![CDATA[SalZH goes West 2016]]></description>
         <link>https://thegrid.ai/salzhusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 12:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 12:45:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/salzhusa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SalZH - Winterthur - Switzerland]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/salzhusa/salzh-winterthur-switzerland/index.html</link>
             <guid isPermaLink="false">a3ed2cbe-583d-41e6-9239-ca60ba81400e</guid>
             <pubDate>Mon, 09 May 2016 20:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whitecaps vs. Fort Wayne ]]></title>
+            <description><![CDATA[<article><h1>Whitecaps vs. Fort Wayne </h1><p>We won!</p></article>]]></description>
+            <link>https://thegrid.ai/salzhusa/whitecaps-vs-fort-wayne/index.html</link>
+            <guid isPermaLink="false">cdb090a8-704b-4c86-9065-63ea6bd07fb4</guid>
+            <pubDate>Thu, 19 May 2016 12:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Class reunion on Friday and potluck dinner]]></title>
+            <description><![CDATA[<article><h1>Class reunion on Friday and potluck dinner</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef907e8e-5bc0-48ee-b83c-e6fccfa993fc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/salzhusa/class-reunion-on-friday-and-potluck-dinner/index.html</link>
+            <guid isPermaLink="false">2cd0a389-da85-467e-aeb4-211e0e62dbf3</guid>
+            <pubDate>Thu, 19 May 2016 12:42:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazing time at the lake]]></title>
@@ -56,25 +70,11 @@
             <pubDate>Tue, 17 May 2016 23:16:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whitecaps vs. Fort Wayne ]]></title>
-            <description><![CDATA[<article><h1>Whitecaps vs. Fort Wayne </h1><p>We won!</p></article>]]></description>
-            <link>https://thegrid.ai/salzhusa/whitecaps-vs-fort-wayne/index.html</link>
-            <guid isPermaLink="false">cdb090a8-704b-4c86-9065-63ea6bd07fb4</guid>
-            <pubDate>Mon, 16 May 2016 01:15:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Switzerland Through 11 Magnificent UNESCO World Heritage Sites]]></title>
             <description><![CDATA[<article><h1>Switzerland Through 11 Magnificent UNESCO World Heritage Sites</h1><p>Click to see stunning monasteries, snaking rail bridges, and Swiss watchmaking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca79b5968dd14473598323c587be41b40eb14eb7.jpg"></article>]]></description>
             <link>https://thegrid.ai/salzhusa/switzerland-through-11-magnificent-unesco-world-heritage-sit/index.html</link>
             <guid isPermaLink="false">70059e8d-a66b-4f1f-a9c4-f7b85101d392</guid>
             <pubDate>Sun, 15 May 2016 09:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Class reunion on Friday and potluck dinner]]></title>
-            <description><![CDATA[<article><h1>Class reunion on Friday and potluck dinner</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef907e8e-5bc0-48ee-b83c-e6fccfa993fc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/salzhusa/class-reunion-on-friday-and-potluck-dinner/index.html</link>
-            <guid isPermaLink="false">2cd0a389-da85-467e-aeb4-211e0e62dbf3</guid>
-            <pubDate>Sat, 14 May 2016 02:08:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
