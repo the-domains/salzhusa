@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Presentation...
-datePublished: '2016-05-18T14:34:24.734Z'
-dateModified: '2016-05-18T14:34:24.068Z'
+description: 'Presentation... '
+datePublished: '2016-05-19T12:43:10.686Z'
+dateModified: '2016-05-19T12:43:00.596Z'
 title: Discover Calvin Christian Highschool
 author: []
 sourcePath: _posts/2016-05-18-discover-calvin-christian-highschool.md
@@ -19,8 +19,7 @@ _type: Article
 ---
 # Discover Calvin Christian Highschool
 
-Presentation...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88b5fc06-38a7-42c1-b240-59c7abe382a5.jpg)
+Presentation... ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88b5fc06-38a7-42c1-b240-59c7abe382a5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e78b6109-278b-4d21-8dd9-9bf97c8a1e37.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a3c299f-81f3-4c88-84aa-d6a4f75ab8ec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49fad5b7-a5c3-4cac-812e-89184cbc52d0.jpg)
