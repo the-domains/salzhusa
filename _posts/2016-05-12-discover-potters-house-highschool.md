@@ -5,17 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T13:00:41.397Z'
-dateModified: '2016-05-12T13:00:37.663Z'
+datePublished: '2016-05-19T12:42:13.693Z'
+dateModified: '2016-05-19T12:42:13.242Z'
 title: "Discover Potter's House Highschool"
 author: []
 sourcePath: _posts/2016-05-12-discover-potters-house-highschool.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: discover-potters-house-highschool/index.html
 _type: Article
