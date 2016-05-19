@@ -5,17 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T02:08:33.265Z'
-dateModified: '2016-05-14T01:43:03.317Z'
+datePublished: '2016-05-19T12:42:29.137Z'
+dateModified: '2016-05-19T12:42:28.647Z'
 title: Class reunion on Friday and potluck dinner
 author: []
 sourcePath: _posts/2016-05-14-class-reunion-on-friday-and-potluck-dinner.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: class-reunion-on-friday-and-potluck-dinner/index.html
 _type: Article
