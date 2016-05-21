@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T12:59:45.153Z'
-dateModified: '2016-05-19T12:43:35.622Z'
+datePublished: '2016-05-21T13:33:34.670Z'
+dateModified: '2016-05-21T13:30:10.913Z'
 title: Grand Haven with the second group...
 author: []
 sourcePath: _posts/2016-05-18-grand-haven-with-the-second-group.md
@@ -18,6 +18,7 @@ _type: Article
 
 ---
 ## Grand Haven with the second group...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af8901cd-e2e4-401a-88e6-cc6c07099ce1.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d5d954-9a0a-4c2a-815e-aa44cc6559ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a1825e2-2a4a-4600-903d-7892ea819502.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4e1c502-d884-4dfe-a040-ea0b3ace669f.jpg)
