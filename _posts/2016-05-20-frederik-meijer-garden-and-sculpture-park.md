@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Mister Kedmi fighting with the horse.
-datePublished: '2016-05-21T18:04:16.696Z'
-dateModified: '2016-05-21T18:04:06.075Z'
+description: Mister Kedmi fighting with the horse...
+datePublished: '2016-05-21T21:39:12.814Z'
+dateModified: '2016-05-21T18:04:26.898Z'
 title: Frederik Meijer Garden and Sculpture Park
 author: []
 sourcePath: _posts/2016-05-20-frederik-meijer-garden-and-sculpture-park.md
@@ -20,7 +20,7 @@ _type: Article
 ## Frederik Meijer Garden and Sculpture Park
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3310e4d5-20e0-41ca-a7a0-dec8331272da.gif)
 
-Mister Kedmi fighting with the horse.
+Mister Kedmi fighting with the horse...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e8e2c4-5f0d-441d-ac95-00a2039c4b6c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5e68f0e-f2e8-413a-907c-003375c8b70c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13031b32-f9d7-4f73-833f-07962ff10971.jpg)
