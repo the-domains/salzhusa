@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T13:50:47.818Z'
-dateModified: '2016-05-21T13:50:27.020Z'
+datePublished: '2016-05-21T14:34:56.286Z'
+dateModified: '2016-05-21T13:51:05.519Z'
 title: Frederik Meijer Garden and Sculpture Park
 author: []
 sourcePath: _posts/2016-05-20-frederik-meijer-garden-and-sculpture-park.md
