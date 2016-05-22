@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T14:09:57.223Z'
-dateModified: '2016-05-21T14:08:14.525Z'
+datePublished: '2016-05-22T12:40:56.675Z'
+dateModified: '2016-05-22T12:39:46.740Z'
 title: 'Visiting our amazing hostfamilies '
 author: []
 sourcePath: _posts/2016-05-10-our-amazing-hostfamilies.md
@@ -17,6 +17,8 @@ url: our-amazing-hostfamilies/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e915d50-8bd4-4c1e-b1bb-046f57f19a66.gif)
+
 # Visiting our amazing hostfamilies ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3542aa-b15c-47cd-80d9-bc2ecd45cfbb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/735baff6-6eb6-489a-9725-6f9024f306e6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2ccee08-73de-4153-877f-aa25efad5562.jpg)
@@ -41,7 +43,6 @@ Thank you for partner with us, parents from
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1dca01b-9bb5-4247-bd06-e5bb6fec0b0c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a96b83a7-3941-4845-a8b1-24cae6d0472f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35744fa9-a2de-4051-af80-bf75d39a8eee.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e915d50-8bd4-4c1e-b1bb-046f57f19a66.gif)
 
 [0]: http://www.algomachristian.net/
 [1]: http://www.gosquires.org/
