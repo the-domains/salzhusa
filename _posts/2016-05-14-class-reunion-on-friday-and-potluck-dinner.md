@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-19T12:42:29.137Z'
-dateModified: '2016-05-19T12:42:28.647Z'
+datePublished: '2016-05-22T23:58:09.160Z'
+dateModified: '2016-05-22T23:58:01.584Z'
 title: Class reunion on Friday and potluck dinner
 author: []
 sourcePath: _posts/2016-05-14-class-reunion-on-friday-and-potluck-dinner.md
@@ -21,6 +21,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef907e8e-5bc0-48ee-b83c-e6fccfa993fc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b63d573d-45a5-45e8-a588-30f87304eae8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7d3417-279e-4989-b82e-54d6b2889a62.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b73a72d9-476c-428d-96bc-e227cc1e1b5a.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66fade43-9529-41e5-bd2e-ed3b80f5c459.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dab417f-d265-464c-b0fb-c966c556057e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/610ba3f2-3aea-40c3-a8fc-7ac8ca1f49dc.jpg)
