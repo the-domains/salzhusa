@@ -5,17 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We won!'
-datePublished: '2016-05-19T12:42:39.837Z'
-dateModified: '2016-05-16T01:15:35.608Z'
+datePublished: '2016-05-22T22:27:24.964Z'
+dateModified: '2016-05-22T22:26:18.761Z'
 title: 'Whitecaps vs. Fort Wayne '
 author: []
 sourcePath: _posts/2016-05-15-whitecaps-vs-fort-wayne.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: whitecaps-vs-fort-wayne/index.html
 _type: Article
@@ -47,3 +43,4 @@ __
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8279f9b1-bc07-4ac3-a187-0f67efa373d6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/822bfff6-f5d0-41ac-9000-821ebc02325f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e0a1cbf-9e64-4df1-a850-54a8fdda974f.gif)
