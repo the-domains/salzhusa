@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Mister Kedmi fighting with the horse...
-datePublished: '2016-05-22T17:57:27.241Z'
-dateModified: '2016-05-22T17:48:12.790Z'
+datePublished: '2016-05-22T23:58:25.251Z'
+dateModified: '2016-05-22T23:58:24.839Z'
 title: Frederik Meijer Garden and Sculpture Park
 author: []
 sourcePath: _posts/2016-05-20-frederik-meijer-garden-and-sculpture-park.md
