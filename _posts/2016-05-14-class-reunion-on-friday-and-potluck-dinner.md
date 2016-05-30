@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T23:58:09.160Z'
-dateModified: '2016-05-22T23:58:01.584Z'
+datePublished: '2016-05-30T09:50:21.832Z'
+dateModified: '2016-05-22T23:58:15.444Z'
 title: Class reunion on Friday and potluck dinner
 author: []
 sourcePath: _posts/2016-05-14-class-reunion-on-friday-and-potluck-dinner.md
